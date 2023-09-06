@@ -8,6 +8,7 @@
     "gatsby"
   ],
   "scripts": {
+    "dc": "gatsby clean && gatsby develop",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
